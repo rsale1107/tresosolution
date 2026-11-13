@@ -1,4 +1,4 @@
-Vérification du texte : structure actuelle v1.6 comparée au site d'origine www.treso-solution.fr (lu le 13/11/2026)
+Vérification du texte : structure actuelle v1.7 comparée au site d'origine www.treso-solution.fr (lu le 13/11/2026)
 
 153 phrases du site d'origine contrôlées sur les 13 pages et les 6 pages « En savoir plus » de Notre solution.
 137 sont reprises à l'identique. Les 16 autres ne diffèrent que par une correction d'orthographe ou d'espacement, détaillée ci-dessous.
@@ -72,3 +72,5 @@ Règles serveur testées sur un serveur Apache : pages sans .html (200), ancienn
 /notre-solution-... et barre oblique finale redirigées (301), adresse inconnue -> page 404.
 
 Contrôle v1.6 : 40 fichiers du dossier /images/ de l'ancien site récupérés et intégrés ; les 9 utilisés par les pages (6 schémas/graphique, 3 PDF) sont présents et s'affichent ; texte inchangé (137/153).
+
+Contrôle v1.7 : bandeau du haut retiré ; 182 clics testés (menu principal + menu déroulant Société, 13 pages), aucune erreur.

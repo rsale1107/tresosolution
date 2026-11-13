@@ -1,3 +1,4 @@
+Version 1.7 (13/11/2026) : bandeau du haut supprimé (il faisait doublon avec le menu déroulant Société) ; menus retestés
 Version 1.6 (13/11/2026) : dossier images/ de l'ancien site intégré au site (schémas, graphique, PDF, logos : 40 fichiers) ; plus aucune dépendance à l'ancien site ; image de partage et icône refaites avec le logo haute définition ; descriptions des schémas enrichies
 Version 1.5 (13/11/2026) : référencement renforcé (adresses du site d'origine conservées, règles serveur, image de partage, favicon, données structurées, page 404) ; texte inchangé
 Version 1.4 (13/11/2026) : menu « Société » transformé en vrai menu déroulant (6 pages), tous les boutons des menus du haut testés
