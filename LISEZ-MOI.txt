@@ -1,0 +1,31 @@
+Version 1.6 (13/11/2026) : dossier images/ de l'ancien site intégré au site (schémas, graphique, PDF, logos : 40 fichiers) ; plus aucune dépendance à l'ancien site ; image de partage et icône refaites avec le logo haute définition ; descriptions des schémas enrichies
+Version 1.5 (13/11/2026) : référencement renforcé (adresses du site d'origine conservées, règles serveur, image de partage, favicon, données structurées, page 404) ; texte inchangé
+Version 1.4 (13/11/2026) : menu « Société » transformé en vrai menu déroulant (6 pages), tous les boutons des menus du haut testés
+Version 1.3 (13/11/2026) : texte des 13 pages remplacé par le texte du site d'origine www.treso-solution.fr (vérifié phrase par phrase)
+Version 1.2 (12/11/2026) : aucun changement de contenu (numéro aligné)
+Version 1.1 (11/11/2026) : optimisation du référencement naturel (SEO)
+Version 1.0 : maquette d'origine (fichier HTML unique)
+
+Tréso-Solution : site prêt à mettre en ligne
+
+Les pages gardent les mêmes adresses que le site actuel (www.treso-solution.fr/constat, /outils, /demander-une-demo, etc.).
+Google garde donc l'historique de chaque page : pas de redirections à prévoir pour les pages existantes.
+
+1. Déposer tout le contenu de ce dossier à la racine de www.treso-solution.fr, Y COMPRIS le fichier caché .htaccess
+   (il peut être masqué dans l'explorateur de fichiers : afficher les fichiers cachés).
+2. Le dossier images/ (schémas, graphique, PDF des Actualités et autres visuels de l'ancien site) fait partie du site :
+   le déposer avec le reste. Le site ne dépend plus de l'ancien serveur.
+3. Supprimer les anciens fichiers des pages (ancien site) pour qu'ils ne remplacent pas les nouveaux.
+4. Dans Google Search Console : soumettre https://www.treso-solution.fr/sitemap.xml.
+
+Le fichier .htaccess (serveur Apache) :
+- force l'adresse unique https://www.treso-solution.fr ;
+- sert les pages sans « .html » dans l'adresse, comme aujourd'hui ;
+- redirige /presentation vers l'accueil et les 6 anciennes pages /notre-solution-1-... à /notre-solution-4-... vers /notre-solution ;
+- affiche la page 404.html pour toute adresse inconnue ;
+- active la compression et le cache des images.
+Si l'hébergement n'est pas un serveur Apache, ces règles sont à reproduire dans la configuration du serveur.
+
+Aperçu sur votre ordinateur : double-cliquer sur index.html ; les liens fonctionnent aussi hors ligne.
+
+Reste à faire : brancher les formulaires (Démo, Contact) à la messagerie.

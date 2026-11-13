@@ -1,0 +1,74 @@
+Vérification du texte : structure actuelle v1.6 comparée au site d'origine www.treso-solution.fr (lu le 13/11/2026)
+
+153 phrases du site d'origine contrôlées sur les 13 pages et les 6 pages « En savoir plus » de Notre solution.
+137 sont reprises à l'identique. Les 16 autres ne diffèrent que par une correction d'orthographe ou d'espacement, détaillée ci-dessous.
+Les titres écrits en majuscules sur l'ancien site sont écrits en minuscules (mêmes mots).
+
+Textes ajoutés qui ne viennent pas de l'ancien site (éléments de navigation uniquement) :
+- les boutons « Demander une démo », « Voir la vidéo », « Lire la vidéo », « Lire le document (PDF) », « Nous écrire » ;
+- les intitulés « En savoir plus : … » qui ouvrent le contenu des 6 pages détaillées de Notre solution ;
+- les 4 vidéos (présentation générale, TrésoDiag, TrésoScan, TrésoO2C) hébergées sur videos.treso-solution.fr ;
+- le pied de page (rubriques du menu, adresse, téléphone, mentions).
+
+Détail des corrections :
+[notre-solution.html] 0.93
+   ORIGINE : Vous décidez des règles de qualité payeurs et solvabilités Clients.
+   NOUVEAU : decidez des regles de qualite payeurs et de solvabilite clients
+[notre-solution.html] 0.96
+   ORIGINE : Bon payeur : Moins de 5% de facturation en retard de paiement > à 5 jours
+   NOUVEAU : payeur moins de 5 % de facturation en retard de paiement > a 5 jours
+[notre-solution.html] 0.89
+   ORIGINE : Solvable : 20% de dépassement de la garantie accordée
+   NOUVEAU : solvable 20 % de depassement de la garantie
+[notre-solution.html] 0.99
+   ORIGINE : Vous pourrez identifier la qualité de vos encours et chiffre d’affaires selon les shémas suivants :
+   NOUVEAU : vous pourrez identifier la qualite de vos encours et chiffre d'affaires selon les schemas suivants
+[notre-solution.html] 0.99
+   ORIGINE : La chronologie des actions clients détermine la performance de chaque services sollicités.
+   NOUVEAU : la chronologie des actions clients determine la performance de chaque service sollicite
+[outils.html] 0.99
+   ORIGINE : de contrôle et de pilotage spécifique, adaptés à chaque service ou direction.
+   NOUVEAU : de controle et de pilotage specifiques adaptes a chaque service ou direction
+[outils.html] 1.0
+   ORIGINE : TrésoDiag est enrichi d’analyses détaillées et vous disposez d’indicateurs de gestion, d’actions et de pilotage, nécessaire à un recouvrement performant.
+   NOUVEAU : tresodiag est enrichi d'analyses detaillees et vous disposez d'indicateurs de gestion d'actions et de pilotage necessaires a un recouvrement performant
+[outils.html] 0.99
+   ORIGINE : Des indicateurs de performances couplées aux conditions de paiements, facilitent les prises de décision sans risque.
+   NOUVEAU : des indicateurs de performance couples aux conditions de paiement facilitent les prises de decision sans risque
+[outils.html] 1.0
+   ORIGINE : Nous suggérons une fréquence de mise à jour correspondante à votre cycle de relance. (En général de 10 à 21 jours)
+   NOUVEAU : nous suggerons une frequence de mise a jour correspondant a votre cycle de relance en general de 10 a 21 jours
+[notation-assurance-credit.html] 1.0
+   ORIGINE : fournit aux entreprises son expertise métier dans la recherche de solutions de garantie, de financement, de gestion indispensable à la sécurisation des échanges clients et fournisseurs.
+   NOUVEAU : fournit aux entreprises son expertise metier dans la recherche de solutions de garantie de financement de gestion indispensables a la securisation des echanges clients et fournisseurs
+[devis.html] 0.98
+   ORIGINE : La fréquence de mise à jour suggérée correspond à votre cycle de relance (entre 10 à 21 jours).
+   NOUVEAU : la frequence de mise a jour suggeree correspond a votre cycle de relance entre 10 et 21 jours
+[comment.html] 1.0
+   ORIGINE : Vos données comptables sont importées en provenance de votre système (ERP, CRM, logiciel de comptabilité…). Tréso-Solution travaille sous engagement de confidentialité, et sécurise vos données dans leurs extractions et leurs stockage.
+   NOUVEAU : vos donnees comptables sont importees en provenance de votre systeme erp crm logiciel de comptabilite treso solution travaille sous engagement de confidentialite et securise vos donnees dans leurs extractions et leur stockage
+[comment.html] 1.0
+   ORIGINE : Nous suggérons une fréquence de mise à jour correspondante à votre cycle de relance. (En général de 10 à 21 jours)
+   NOUVEAU : nous suggerons une frequence de mise a jour correspondant a votre cycle de relance en general de 10 a 21 jours
+[actualites.html] 0.98
+   ORIGINE : Régulation concurentielle
+   NOUVEAU : regulation concurrentielle
+[qui-sommes-nous.html] 1.0
+   ORIGINE : Hogesco est un cabinet de courtage en assurance-crédit et affacturage, il complète les services de Tréso-Solution. Des analyses financières approfondies sur les clients et fournisseurs renforce la trésorerie par des insights financiers détaillés.
+   NOUVEAU : hogesco est un cabinet de courtage en assurance credit et affacturage il complete les services de treso solution des analyses financieres approfondies sur les clients et fournisseurs renforcent la tresorerie par des insights financiers detailles
+[qui-sommes-nous.html] 0.99
+   ORIGINE : SAS au capital de 585000€, dont le siège social est 35, Rue du Coquart - 78670 Villennes-sur-Seine, immatriculée au Registre du Commerce et des Sociétés de Versailles sous le numéro 441384898.
+   NOUVEAU : au capital de 585 000 dont le siege social est 35 rue du coquart 78670 villennes sur seine immatriculee au registre du commerce et des societes de versailles sous le numero 441384898
+
+
+Vérification des menus du haut (v1.4) : 260 clics testés sur les 13 pages, aucune erreur.
+- Barre du haut (Pourquoi ?, Pour qui ?, Comment ?, Actualités, Qui sommes-nous ?, Contact) : 6 liens x 13 pages.
+- Menu principal (logo, Constat, Notre solution, Outils, Démo, Notation, Devis, Demander une démo) : 8 liens x 13 pages.
+- Menu déroulant Société : 6 liens x 13 pages, ouverture au clic, au survol et sur téléphone.
+- Les libellés sont ceux du site d'origine ; la page en cours est mise en évidence dans chaque menu.
+
+Contrôle v1.5 : texte identique à la v1.4 (137/153 phrases identiques à l'origine, mêmes 16 corrections) ; 262 clics testés dans les menus, aucune erreur.
+Règles serveur testées sur un serveur Apache : pages sans .html (200), anciennes adresses .html, /presentation, /index.html,
+/notre-solution-... et barre oblique finale redirigées (301), adresse inconnue -> page 404.
+
+Contrôle v1.6 : 40 fichiers du dossier /images/ de l'ancien site récupérés et intégrés ; les 9 utilisés par les pages (6 schémas/graphique, 3 PDF) sont présents et s'affichent ; texte inchangé (137/153).
